@@ -3,7 +3,7 @@
 ## Instructions
 1. [Fork](https://help.github.com/articles/fork-a-repo) and clone this repository **X**
 2. Complete "Requirements" **X**
-3. For a big plus, deploy to a free Heroku container **Keep in mind that you will need to update Rails and use a PostgreSQL db instead**
+3. For a big plus, deploy to a free Heroku container **Keep in mind that you will need to update Rails and use a PostgreSQL db instead** **X**
 
 
 ## Requirements
