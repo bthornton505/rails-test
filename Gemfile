@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 
-ruby "2.3.4"
+ruby "2.6.2"
 
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.21.0'
@@ -15,7 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
-# Use Pry for debugging 
+# Use Pry for debugging
 gem 'pry'
 
 gem 'protected_attributes' # https://github.com/rails/protected_attributes
